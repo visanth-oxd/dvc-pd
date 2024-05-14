@@ -1,0 +1,4 @@
+[core]
+    remote = pd-remote
+['remote "pd-remote"']
+    url = gs://pd-dataset-eu
